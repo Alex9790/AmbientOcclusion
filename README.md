@@ -22,6 +22,6 @@ This is my Undergraduate Thesis, im kinda ashamed and proud of it at the same ti
 <li>Roght Mouse Button -> Up</li>
 </ul>
 
-<p>It also counts with Anttweakbar to set parameters in the scene, just play around with it</p>
+<p>It also use Anttweakbar to set parameters in the scene, just play around with it</p>
 
 
